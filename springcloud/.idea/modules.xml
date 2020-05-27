@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" filepath="$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign/springcloud-feign.iml" filepath="$PROJECT_DIR$/springcloud-feign/springcloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix-dashboard/springcloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-hystrix-dashboard/springcloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider/springcloud-provider.iml" filepath="$PROJECT_DIR$/springcloud-provider/springcloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-02/springcloud-provider-02.iml" filepath="$PROJECT_DIR$/springcloud-provider-02/springcloud-provider-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zuul-api/springcloud-zuul-api.iml" filepath="$PROJECT_DIR$/springcloud-zuul-api/springcloud-zuul-api.iml" />
+    </modules>
+  </component>
+</project>
